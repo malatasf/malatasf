@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ari</h1>
-- 🌱 I’m currently learning **Machine Learning**
+<h1 align="center">Hi 👋, My Name is Ari</h1>
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://www.mohammadariawan.info](https://www.mohammadariawan.info)
 
 - 💬 Ask me about **spring, java, payment systems, aws architecture**
 
-- 📫 How to reach me **malatasf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
